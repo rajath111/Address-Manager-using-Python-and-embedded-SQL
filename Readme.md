@@ -1,0 +1,1 @@
+Just a simple Address manager using Python's tkinter and sqlite database.
